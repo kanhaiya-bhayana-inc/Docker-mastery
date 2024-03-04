@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce571dc40ad42a4a",
+        "id": "5b51df7496d7eb7c",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6c65dd569fbe3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dec6dd544c8686f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "718913de96b74e50",
+            "id": "45645a9021b2c608",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "bb94f037c4c4b725",
@@ -171,9 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dec6dd544c8686f",
+  "active": "45645a9021b2c608",
   "lastOpenFiles": [
+    "Docker Tip.md",
+    "PATH-1/Introduction.md",
+    "Docker Compose - The Multi-Container Tool.md",
+    "PATH-1",
     "Introduction.md",
+    "Kubernetes.md",
+    "Kubectl Run, Create, and Apply.md",
+    "Kubernetes Architecture Terminology.md",
+    "().md",
+    "Container Registries.md",
+    "Adding Image Building to Compose File.md",
+    "Persistent Data Volumes.md",
+    "Pasted image 20240226170919.png",
+    "Pasted image 20240226170914.png",
     "Pasted image 20240223121020.png",
     "DD.md",
     "Welcome.md"

@@ -1,4 +1,7 @@
+ran
+What is Docker and why it is used?
 
+Docker is **a software platform that allows you to build, test, and deploy applications quickly**. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime.
 #### Daily Needs Commands
 	$ docker version
 	
@@ -188,3 +191,6 @@ $ docker network disconnect
 
 #### Docker DNS
 - Docker daemon has a built-in DNS server that containers use by default
+
+
+
